@@ -7,7 +7,7 @@ export const Container = styled.div`
 `;
 
 export const IconContainer = styled.div`
-  margin-top: 15rem;
+  margin-top: 10rem;
   width: 400px;
   height: 300px;
   display: flex;
@@ -29,7 +29,7 @@ export const Title = styled.div`
 `;
 
 export const SubTitle = styled.div`
-  font-size: 1rem;
+  font-size: 0.7rem;
   margin-top: 1rem;
   color: #BACDFE;
 `;
