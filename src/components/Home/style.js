@@ -8,7 +8,7 @@ export const Container = styled.div`
 `;
 
 export const IconContainer = styled.div`
-  margin-top: 10rem;
+  margin-top: 8rem;
   width: 400px;
   height: 300px;
   display: flex;
