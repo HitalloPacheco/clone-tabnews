@@ -29,7 +29,7 @@ export const Title = styled.div`
 `;
 
 export const SubTitle = styled.div`
-  font-size: 0.7rem;
+  font-size: 0.8rem;
   margin-top: 1rem;
   color: #BACDFE;
 `;
