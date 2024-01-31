@@ -4,7 +4,9 @@
   "description": "Projeto para aplicar, treinar e melhorar as habilidades em programação e de quebra valer de portifólio!",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "lint:check": "prettier --check .",
+    "lint:fix": "prettier --write ."
   },
   "author": "",
   "license": "MIT",
@@ -16,6 +18,6 @@
     "styled": "^1.0.0"
   },
   "devDependencies": {
-    "babel-plugin-styled-components": "^2.1.4"
+    "prettier": "^3.2.4"
   }
 }
